@@ -45,6 +45,10 @@ I'm currently studying at **WildBerries Tech School** on the **“Goroutine Gola
 
 Most of my repositories are about learning and experimenting:
 
+- **Go + JWT-auth + PostgreSQL**  
+  Microservice emulating warehouse-processes with role-depending access-levels  
+  https://github.com/UnendingLoop/WarehouseControl
+  
 - **Go + Kafka + PostgreSQL**  
   Event-driven microservice with producer/consumer and in-memory cache  
   https://github.com/UnendingLoop/Level0
@@ -66,7 +70,8 @@ Most of my repositories are about learning and experimenting:
 ## A bit of background
 
 Before moving into backend development, I worked as a product and project manager  
-(e-commerce and media platforms, including international teams).
+(e-commerce and media platforms, including international teams), also have experience in
+international tech-support.
 
 That experience helps me think about backend systems in a more practical way:
 - how services are actually used in production
